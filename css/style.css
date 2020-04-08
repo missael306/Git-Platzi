@@ -1,4 +1,27 @@
 body{
+    display: block;
+    width: 80%;
+    margin: 0  auto;
+}
+
+h1{
     text-align: center;
     color: blue;    
+}
+
+#datosBiograficos{
+    display: block;
+    border: solid 1px;
+    border-radius: 5px;
+    padding: 10px;    
+}
+
+#datosBiograficos .row{
+    display: block;
+    margin-bottom: 5px;
+}
+
+#datosBiograficos label{
+    font-weight: 700;
+    margin-right: 5px;
 }
