@@ -1,12 +1,12 @@
 body{
     display: block;
-    width: 80%;
+    width: 90%;
     margin: 0  auto;
 }
 
 h1{
     text-align: center;
-    color: blue;    
+    color: rgb(79, 79, 189);    
 }
 
 #datosBiograficos{
