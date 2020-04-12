@@ -26,3 +26,11 @@ h1{
     font-weight: 700;
     margin-right: 5px;
 }
+
+footer{
+    background-color: #eee;
+    border: solid black 1px;
+    text-align: center;
+    padding: 5px;
+    border-radius: 5px;
+}
