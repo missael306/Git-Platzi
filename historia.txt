@@ -3,8 +3,8 @@ Esta es la historia de Missael Armenta
 hoy hablaremos de ella.
 
 Fecha de nacimiento:  10 - Octubre - 1995
-Ciudad de origen: Puebla -  México
-Padres: Arturo y Edith
+Ciudad de origen: Puebla -  México  
+Se crea un rebase con master
 
 master 1
 
